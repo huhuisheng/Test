@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfDZTestConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DZTestConfiguration>
+    <Po>AA1</Po>
+    <ProcessName>BB1</ProcessName>
+    <User>CC1</User>
+    <Shift>A</Shift>
+    <OrderName>H5p</OrderName>
+    <CreateTime>2018/3/10 16:36:42</CreateTime>
+  </DZTestConfiguration>
+  <DZTestConfiguration>
+    <Po>JJD</Po>
+    <ProcessName>FF1</ProcessName>
+    <User>DS</User>
+    <Shift>A</Shift>
+    <OrderName>ATE-Mac-Match</OrderName>
+    <CreateTime>2018/3/19 15:14:23</CreateTime>
+  </DZTestConfiguration>
+  <DZTestConfiguration>
+    <Po>AA</Po>
+    <ProcessName>BF</ProcessName>
+    <User>DS</User>
+    <Shift>A</Shift>
+    <OrderName>E6G-BatchUpg</OrderName>
+    <CreateTime>2018/3/19 17:23:02</CreateTime>
+  </DZTestConfiguration>
+</ArrayOfDZTestConfiguration>

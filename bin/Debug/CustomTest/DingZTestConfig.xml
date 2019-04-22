@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfDingZTestConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DingZTestConfiguration>
+    <OrderName>dingzhi-Test</OrderName>
+    <Operator>603411</Operator>
+    <UserCode>603411</UserCode>
+    <ResCode>A301_GX045</ResCode>
+    <PassWord>603411</PassWord>
+    <CreateTime>2018/5/8 16:35:56</CreateTime>
+  </DingZTestConfiguration>
+  <DingZTestConfiguration>
+    <OrderName>Dingzhi-Test</OrderName>
+    <Operator>603411</Operator>
+    <UserCode>603411</UserCode>
+    <ResCode>A301_GX048</ResCode>
+    <PassWord>603411</PassWord>
+    <CreateTime>2013/3/7 16:45:03</CreateTime>
+  </DingZTestConfiguration>
+</ArrayOfDingZTestConfiguration>
